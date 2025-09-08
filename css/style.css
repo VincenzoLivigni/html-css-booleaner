@@ -1,0 +1,11 @@
+* {margin: 0 auto;}
+
+header {height: 100px;
+        background-color: #499dfe;
+        background-image: url('./../img/pattern.png');
+        background-size: 20%;
+}
+
+#logo {height: 50px;
+       margin-left: 10%;
+       margin-top: 40px;}
