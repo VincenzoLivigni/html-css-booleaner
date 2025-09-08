@@ -1,11 +1,28 @@
 * {margin: 0 auto;}
 
+/* header */
 header {height: 100px;
         background-color: #499dfe;
         background-image: url('./../img/pattern.png');
         background-size: 20%;
 }
 
+/* logo */
 #logo {height: 50px;
        margin-left: 10%;
        margin-top: 40px;}
+
+/* container */
+#container {max-width: 80%;
+            margin: 0 auto;}
+
+/* main */
+h1 {font-size: 40px;
+    margin-top: 10px;}
+
+.sottotitolo {color: #848484;}
+
+span {color: #48b7e9;}
+
+
+
